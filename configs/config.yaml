@@ -1,0 +1,8 @@
+project:
+  name: "CDC Soil Time-Series Forecasting"
+
+paths:
+  raw_data: "data/raw"
+  interim_data: "data/interim"
+  processed_data: "data/processed"
+  results: "results"
